@@ -11,7 +11,7 @@ In application domains where perceived quality is limited by human senses, where
 
 Paper link here: [GMEE](https://ieeexplore.ieee.org/abstract/document/7927004)
 
-![GMEE](GMEE.png)
+![GMEE](./resources/GMEE.png)
 Approximate functional units are modelled as a combination of a non-approximate equivalent with filter functions cFF and eFF applied to the output to produce the correct and error components.
 
 
